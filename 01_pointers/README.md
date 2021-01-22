@@ -11,6 +11,10 @@ type *var_name;
 
 Type is the type of variable that the pointer will catch memory address. The asterisk * is used to indicate that we want to create a pointer.
 
+### Why use pointers
+**Performance**: to use pointers decreases the space allocated in memory, for example, when we pass a variable as parameter to a fuction, this parameter will copy our variable, but if we pass the memory address to function, this value will not be copied but referenced.
+
+
 ### Example in C
 [Execute this code here](/01_pointers/_definition)
 ```c
