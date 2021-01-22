@@ -12,7 +12,7 @@ type *var_name;
 Type is the type of variable that the pointer will catch memory address. The asterisk * is used to indicate that we want to create a pointer.
 
 ### Example in C
-[Execute this code here](/_definition)
+[Execute this code here](/01_pointers/_definition)
 ```c
 #include <stdio.h>
 
