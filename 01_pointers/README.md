@@ -14,7 +14,6 @@ Type is the type of variable that the pointer will catch memory address. The ast
 ### Why use pointers
 **Performance**: to use pointers decreases the space allocated in memory, for example, when we pass a variable as parameter to a fuction, this parameter will copy our variable, but if we pass the memory address to function, this value will not be copied but referenced.
 
-
 ### Example in C
 [Execute this code here](/01_pointers/_definition)
 ```c
@@ -43,6 +42,8 @@ Even, when we print `x` in first `printf` it will print the value `1` and when w
 With this in mind, we can to manipulate freely the memory address of `x`, for example at line `*y = 22;`, this statement is assigning the value `22` into memory address of `x`,
 thus making `x` have the value of `2`.
 
+### Pointer arithmetic
+A pointer is a numeric value. Therefore, you can use arithmetic operations to handle numeric value. There are four arithmetic operators that can be used on pointers: ++, --, +, and -
 
 ### Links to reference
 [Pointers in C / C++ [Full Course]](https://youtu.be/zuegQmMdy8M)
