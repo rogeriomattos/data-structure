@@ -7,5 +7,5 @@ https://youtu.be/h96Z38oMJZA
 ## Topics
 
 1. [Pointers](/01_pointers)
-2. [Structs](02_struct)
+2. [Structs](/02_structs)
 
