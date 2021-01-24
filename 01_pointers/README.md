@@ -45,5 +45,10 @@ thus making `x` have the value of `2`.
 
 
 ### Links to reference
-https://youtu.be/r7f-aR7vgg0
-https://youtu.be/AdyGxhYWhoM
+[Pointers in C / C++ [Full Course]](https://youtu.be/zuegQmMdy8M)
+
+[Programar em C - Introdução Ponteiros(Teoria) - Aula 60](https://youtu.be/r7f-aR7vgg0)
+
+[Programar em C - Introdução Ponteiros(Prática) - Aula 61](https://youtu.be/AdyGxhYWhoM)
+
+[Ponteiro em C: Aritmética de ponteiro](https://www.embarcados.com.br/ponteiro-em-c-aritmetica-de-ponteiro/)
