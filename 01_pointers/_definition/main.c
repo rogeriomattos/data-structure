@@ -11,7 +11,7 @@ int main (){
     int *y = &x;
 
     printf("x = %d\n", x);
-    printf("x = %d\n", y);
+    printf("adress x = %d\n", y);
 
     //now this statment is puting the value 22 in memory adress of x, then now x value 22
     *y = 22;
